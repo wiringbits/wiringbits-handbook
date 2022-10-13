@@ -3,7 +3,7 @@ This document describes how we work at Wiringbits, including technical and non-t
 
 You should be reading this if:
 
-1. You are interested or consireding to join us.
+1. You are interested or considering to join us.
 2. You are a new team member.
 3. You are team member wondering what to do in your current situation.
 
@@ -41,4 +41,4 @@ There are some examples of the expected behavior:
 These are unacceptable behavior examples:
 
 1. I haven't worked much this week because I'm having personal issues, still, I let my team discover it when I failed to deliver instead of communicated it accordingly. Wiringbits is as transparent as possible, we expect the same from its members.
-2. I can't work much this week, still, I did not communicate it, I neither ask for time off because I have already planned how to use my vacations. Wiringbits is super flexible, there is likely a way to resolve this situation but we can't do anything if you don't communicate it.
+2. I couldn't work much this week, still, I did not communicate it, I neither ask for time off because I have already planned how to use my vacations. Wiringbits is super flexible, there is likely a way to resolve this situation but we can't do anything if you don't communicate it.
