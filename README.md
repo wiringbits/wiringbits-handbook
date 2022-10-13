@@ -16,7 +16,7 @@ You should be reading this if:
 You can either use your own computer or one from Wiringbits, it is important that you work by using full disk encryption.
 
 ## Security
-Your work computer must use Full Disk Encryption, this is applied to all Wiringbits coputers but you are expected to handle that if you use your own computer.
+Your work computer must use Full Disk Encryption, this is applied to all Wiringbits computers but you are expected to handle that if you use your own computer.
 
 https://github.com/99designs/aws-vault for managing AWS keys locally.
 
