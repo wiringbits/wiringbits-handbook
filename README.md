@@ -26,7 +26,7 @@ When getting to work in a new project (or with a new customer), you are expected
 
 ## Professional communication is required
 
-At Wiringbits trust is a privilege, one constantly earned and validated, we are commited to our compromises, and we're responsible to minimize the possibility of any scenario where deadlines are not meet or expected quality is not accomplished, any team compromising situation requires mandatory communication as soon a possible, your team expects transparency and anything different will not be tolerated, keep in mind that effective communication increases the chances of success.
+At Wiringbits trust is a privilege, one constantly earned and validated, we are committed to our compromises, and we're responsible to minimize the possibility of any scenario where deadlines are not meet or expected quality is not accomplished, any team compromising situation requires mandatory communication as soon a possible, your team expects transparency and anything different will not be tolerated, keep in mind that effective communication increases the chances of success.
 
 You are require to always behave professionally, excellent communication is key to succeed at Wiringbits.
 
