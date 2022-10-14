@@ -25,6 +25,9 @@ Secrets are handled by https://wiringbits.1password.com/home, all members must h
 When getting to work in a new project (or with a new customer), you are expected to create an isolated Chrome profile just for this, it is crucial that such a profile does not have any browser extension installed. All applications related to the project must be accessed through this profile.
 
 ## Professional communication is required
+
+At Wiringbits trust is a privilege, one constantly earned and validated, we are committed to our compromises, and we're responsible to minimize the possibility of any scenario where deadlines are not meet or expected quality is not accomplished, any team compromising situation requires mandatory communication as soon a possible, your team expects transparency and anything different will not be tolerated, keep in mind that effective communication increases the chances of success.
+
 You are require to always behave professionally, excellent communication is key to succeed at Wiringbits.
 
 This means, most of the time, it is preferred to over-communicate.
