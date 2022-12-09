@@ -39,7 +39,7 @@ There are some examples of the expected behavior:
 1. It must be clear to the team whether you are available or not, given that Discord is our main chat, switch your status to offine when you are not able to reply.
 2. When you can't work for any reason, it must be communicated as soon as possible to Wiringbits and to the customer you are working with (if any).
 3. You will usually have expected deliverables, when you notice that you won't be able to deliver, it must be communicated as soon as possible, this way, we can try finding a workaround.
-
+4. There could be situations when get involved with a project/customer but you don't feel to be a good fit, this situation must be communicated ASAP. Having this information, we can work on finding a solution (most likely, switching you to another project). Staying busy in a situation like this is counterproductive, it prevent us from giving a good service to the our customer, and, it can also lead us to not take potential projects because we don't have any availability.
 
 These are unacceptable behavior examples:
 
