@@ -45,3 +45,12 @@ These are unacceptable behavior examples:
 
 1. I haven't worked much this week because I'm having personal issues, still, I let my team discover it when I failed to deliver instead of communicated it accordingly. Wiringbits is as transparent as possible, we expect the same from its members.
 2. I couldn't work much this week, still, I did not communicate it, I neither ask for time off because I have already planned how to use my vacations. Wiringbits is super flexible, there is likely a way to resolve this situation but we can't do anything if you don't communicate it.
+
+
+## Work prioritization
+
+In the projects from our customers, the priorities will be defined by them.
+
+In our projects, bugs are always more important that any new development.
+
+Be sure to communicate with your team before taking an exception to these cases.
